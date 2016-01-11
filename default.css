@@ -248,7 +248,7 @@ hr
 {
 	overflow: hidden;
 	height: 700px;
-	background: url('images/header.jpg') no-repeat top center;
+	background: url('images/WithArmsWideOpen.jpg') no-repeat top center;
 	background-size: 100%;
 }
 
@@ -389,7 +389,7 @@ hr
 		display: inline-block;
 		margin-top: 2em;
 		padding: 1em 3em;
-		background: #FCC44B;
+		background: #2461ad;
 		-moz-transition: opacity 0.25s ease-in-out;
 		-webkit-transition: opacity 0.25s ease-in-out;
 		-o-transition: opacity 0.25s ease-in-out;
@@ -405,7 +405,7 @@ hr
 
 		.button:hover
 		{
-			background: #FBC551;
+			background: #24a6ad;
 		-moz-transition: opacity 0.25s ease-in-out;
 		-webkit-transition: opacity 0.25s ease-in-out;
 		-o-transition: opacity 0.25s ease-in-out;
@@ -415,7 +415,7 @@ hr
 		
 		.button:active
 		{
-			background: #F2B42F;
+			background: #2c24ad;
 		-moz-transition: opacity 0.25s ease-in-out;
 		-webkit-transition: opacity 0.25s ease-in-out;
 		-o-transition: opacity 0.25s ease-in-out;
@@ -482,7 +482,7 @@ hr
 
 	.major .button
 	{
-		background: #FCC44B;
+		background: #2c24ad;
 		font-size: 1.5em;
 		font-weight: 700;
 	}
@@ -568,6 +568,56 @@ hr
 	{
 		float: right;
 	}
+
+.nav a {
+  color: #5a5a5a;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+}
+
+.jumbotron {
+  background-image:url('http://goo.gl/04j7Nn');
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron .container {
+  position: relative;
+  top:100px;
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron p {
+  font-size: 20px;
+  color: #fff;
+}
+
+.learn-more {
+  background-color: #f7f7f7;
+}
+
+.learn-more h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.learn-more a {
+  color: #00b0ff;
+}
 
 
 

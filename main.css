@@ -11,7 +11,7 @@
 }
 
 .jumbotron {
-  background-image:url('http://goo.gl/04j7Nn');
+  background-image:url('images/WithArmsWideOpen.jpg');
   height: 500px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -47,3 +47,52 @@
 .learn-more a {
   color: #00b0ff;
 }
+
+
+a img
+{
+  border: none;
+}
+
+  .image
+  {
+    display: inline-block;
+  }
+  
+    .image img
+    {
+      display: block;
+      width: 100%;
+    }
+
+  .image-full
+  {
+    display: block;
+    width: 100%;
+    margin: 0 0 2em 0;
+  }
+  
+  .image-left
+  {
+    float: left;
+    margin: 0 2em 2em 0;
+  }
+  
+  .image-centered
+  {
+    display: block;
+    margin: 0 0 2em 0;
+  }
+
+  .image-centered img
+  {
+    margin: 0 auto;
+    width: auto;
+  }
+  .image-small
+  {
+    display: block;
+    /*width: 50%;*/
+    height: 100px;
+    margin: 0 0 2em 0;
+  }
