@@ -1,0 +1,114 @@
+body
+{
+  margin: 0px;
+  padding: 0px;
+  background: #f7f7f7;
+  /*font-family: 'Source Sans Pro', sans-serif;
+  font-size: 12pt;
+  font-weight: 300;
+  color: #363636;*/
+}
+
+
+
+
+
+.nav a {
+  color: #5a5a5a;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+}
+
+.jumbotron {
+  background-image:url('images/WithArmsWideOpen.jpg');
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron .container {
+  position: relative;
+  top:100px;
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron p {
+  font-size: 20px;
+  color: #fff;
+}
+
+.learn-more {
+  background-color: #f7f7f7;
+}
+
+.learn-more h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.learn-more a {
+  color: #00b0ff;
+}
+
+
+a img
+{
+  border: none;
+}
+
+  .image
+  {
+    display: inline-block;
+  }
+  
+    .image img
+    {
+      display: block;
+      width: 100%;
+    }
+
+  .image-full
+  {
+    display: block;
+    width: 100%;
+    margin: 0 0 2em 0;
+  }
+  
+  .image-left
+  {
+    float: left;
+    margin: 0 2em 2em 0;
+  }
+  
+  .image-centered
+  {
+    display: block;
+    margin: 0 0 2em 0;
+  }
+
+  .image-centered img
+  {
+    margin: 0 auto;
+    width: auto;
+  }
+  .image-small
+  {
+    display: block;
+    /*width: 50%;*/
+    height: 10px;
+    max-height: 10px;
+    margin: 0 0 2em 0;
+  }
