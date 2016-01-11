@@ -5,12 +5,12 @@ GLOBALS CLASSES
 body{ font-family: 'Open Sans', sans-serif; background:#455268;}
 img{border:0;}
 h1{font-family: 'Oswald', sans-serif; font-weight:normal;}
-h2{font-family: 'Open Sans', sans-serif; font-weight:normal; font-size:16px;}
-h3{font-family: 'Open Sans', sans-serif; font-weight:normal; font-size:14px; color:#fff; }
+h2{font-family: 'Open Sans', sans-serif; font-weight:normal; font-size:24px;}
+h3{font-family: 'Open Sans', sans-serif; font-weight:normal; font-size:22px; color:#fff; }
 /*h2{font-family: 'Oswald', sans-serif; font-weight:normal; font-size:16px;}
-*/p{font-family: 'Open Sans', sans-serif; font-size:13px; padding-bottom:20px;}
+*/p{font-family: 'Open Sans', sans-serif; font-size:20px; padding-bottom:20px;}
 a{color:#006699; text-decoration:none;}
-a:hover{ color:#91a3c2;}
+a:hover{ color:#ffffff;}
 /*h2{font-family: 'Open Sans', sans-serif;}
 *//*--------------------------------------- 
 GENERAL CLASS
