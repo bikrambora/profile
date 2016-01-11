@@ -270,10 +270,10 @@ h1::after {
 }
 
 .circular {
-    width: 300px;
-    height: 300px;
-    border-radius: 200px;
-    -webkit-border-radius: 200px;
-    -moz-border-radius: 200px;
-    background: url(assets/img/bkb5.jpg) no-repeat;
+    width: 34px;
+    height: 34px;
+    border-radius: 17px;
+    -webkit-border-radius: 17px;
+    -moz-border-radius: 17px;
+    /*background: url(assets/img/bkb5.jpg) no-repeat;*/
     }
